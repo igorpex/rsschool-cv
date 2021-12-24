@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Igor Bogdanov CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container-lg">
+        <header>
+            <img class="profile-picture" src="profile-picture.jpg" alt="photo">
+            <h1>Igor Bogdanov</h1>
+        </header>
+        <main>
+            <h2>Contact information</h2>
+            <ul>
+                <li>Phone/WA/Telegram: +7-906-782-7829</li>
+                <li>E-mail: igor.bogdanov@gmail.com</li>
+            </ul>
+            <h2> Briefly About Myself</h2>
+            <p>I am experienced person in product management, project management,sales and sales engineering. I always loved to be deep in technologies I use. </p>
+            <p>Now I want to not only use or sale or configure things, but to create them.</p>
+            <h2>Skills and Proficiency</h2>
+            <h3>Dev</h3>
+            <ul>
+                <li>HTML, CSS, JavaScript</li>
+                <li>Python, Django, Django ORM</li>
+                <li>NodeJS, Express, Auth2.0(via MS)</li>
+                <li>Docker (docker-compose, dockerfile), publishing dockers to herokuapp.com</li>
+                <li>using cloud MongoDB</li>
+            </ul>
+            <h3>Non-dev</h3>
+            <ul>
+                <li>Product Managament,</li>
+                <li>Project Management,</li>
+                <li>Public Speaking,</li>
+                <li>B2B Sales,</li>
+                <li>Basic understanding of Russian Electronic Government Infrastructure.</li>
+            </ul>
+            <h3>Other Tech</h3>
+            <ul>
+                <li>Unified Communications: Polycom, Cisco, Pexip, MS Skype for Business, MS Teams. SIP\H323\WebRTC</li>
+                <li>Cloud Technologies (VMware, HyperV, basic AWS, Azure)</li>
+            </ul>
+            <h2>Code example</h2>
+            <p><b>Two Sum</b> task from CodeWars and LeetCode.</p>
+            <q>Write a function that takes an array of numbers (integers for the tests) and a target number. It should find two different items in the array that, when added together, give the target value.</q>
+            <br>
+            <pre class="code">
+            function twoSum(numbers, target) {
+                for (i = 0; i &lt; numbers.length-1; ++i) {
+                    for (n=i+1; n &lt; numbers.length; ++n) {
+                        if (numbers[i] + numbers[n]==target) {
+                            return [i, n]
+                        }
+                    }
+                }
+            }</pre>
+            <h2>Dev Experience</h2>
+            <h3>Harvard CS50 Web projects (code can be shared privatly, as it is forbidden to share publicly)</h3>
+            <ul>
+                <li><a href="https://youtu.be/IgxY9oV_tbQ">Search</a>(basic HTML and CSS)</li>
+                <li><a href="https://youtu.be/Fa1fQOrceSk">Wiki</a>(Django, HTML, CSS)</li>
+                <li><a href="https://youtu.be/VPOq96sm-Xg">Commerce</a>(functionality of eBay auction. Django, HTML, CSS, ORM)</li>
+                <li><a href="https://youtu.be/i8KubjDDdLQ">Mail</a>(JavaScript, HTML, CSS. Backend Rest API was provided)</li>
+            </ul>
+            <h3>Commercial development</h3>
+            <ol>
+                <li><b>Voting add-in/plugin for Outlook</b> (Web and Desktop) with voters authentication via Azure AD/Normal MS Accounts/ADFS and recording results to database.
+                    <p>
+                        Used Outlook API and JavaScript for add-in development, then NodeJS, Express, MS authentication libraries, MS Graph, Mongo via Mongoose (for Mongo part I used help of other developer).
+                        Voting server published on herokuapp.com using docker. Demo video to be added later.
+                    </p>
+                    <p>
+                        Used Outlook API and JavaScript for add-in development, then NodeJS, Express, MS authentication libraries, MS Graph, Mongo via Mongoose (for Mongo part I used help of other developer).
+                        Voting server published on herokuapp.com using docker. Demo video to be added later.
+                    </p>
+                </li>
+                <li><b>jinja2 scripts</b> for routing trusted incoming calls to Pexip videoconferences without PIN.
+                    <p>Applied on Pexip Infinity Platform. Trusted calls were calls from several Zoom accounts from headquarters.</p>
+                </li>
+            </ol>
+            <h2>Non-Dev Experience</h2>
+            <ul>
+                <li>Product Management in multinational teams (videoconferencing, UC, cloud services, biometrics) - 10 yrs</li>
+                <li>Sales Engineering in multinational teams (SW and HW unified communications and videoconferencing solutions) - 4 yrs </li>
+                <li>B2B Sales (telecom and biometrics)- 7 yrs</li>
+            </ul>
+            <h2>Education</h2>
+            <h3>Basic </h3>
+            <p>Saint Petersburg University of Telecommunications, Economics and Managements in Communication</p>
+            <h3>Courses </h3>
+            <ul>
+                <li>SkillFactory - Python for Data Analysys</li>
+                <li>Harvard - CS50 Web (Django, HTML, CSS, JS - in process, final Social Network project)</li>
+                <li>Mimo (HTML, CSS, JS) </li>
+                <li>RS Schools «JavaScript/Front-end. Stage 0» (in progress)</li>
+            </ul>
+            <h3>Languages</h3>
+            <ul>
+                <li><b>English - Fluent</b>
+                    <p>Can speak and present. Worked in 3 internation companies, trained partners worldwide, worked in multionational teams, made many product\project presentations for multinational top management team.</p>
+                </li>
+                <li><b>Russian - Native</b></li>
+            </ul>
+        </main>
+    </div>
+
+</body>
+
+</html>
