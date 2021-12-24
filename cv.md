@@ -5,13 +5,13 @@
 Phone/WA/Telegram: +7-906-782-7829
 E-mail: igor.bogdanov@gmail.com
 
-## Briefly About Myself:
+## Briefly About Myself
 
 I am experienced person in product management, project management,sales and sales engineering. I always loved to be deep in technologies I use. Now I want to not only use or sale or configure things, but to create them.
 
-## Skills and Proficiency:
+## Skills and Proficiency
 
-### Non-Tech:
+### Non-Tech
 
 -   Product Managament,
 -   Project Management,
@@ -19,19 +19,19 @@ I am experienced person in product management, project management,sales and sale
 -   B2B Sales,
 -   Basic understanding of Russian Electronic Government Infrastructure.
 
-### Tech:
+### Tech
 
 Unified Communications: Polycom, Cisco, Pexip, MS Skype for Business, MS Teams. SIP\H323\WebRTC
 Cloud Technologies (VMware, HyperV, basic AWS, Azure)
 
-### Dev:
+### Dev
 
 HTML, CSS, JavaScript
 Python, Django, Django ORM
-NodeJS, Express, Auth2.0, Prisma ORM
+NodeJS, Express, Auth2.0
 Docker (docker-compose, dockerfile), publishing dockers to herokuapp.com, using cloud MongoDB
 
-## Code example:
+## Code example
 
 **Two Sum** task from CodeWars and LeetCode.
 
@@ -49,36 +49,49 @@ function twoSum(numbers, target) {
 }
 ```
 
-Dev Experience:
+## Dev Experience
 
-Harvard CS50 Web projects (code can be shared privatly, as it is forbidden to share publicly):
+### Harvard CS50 Web projects
 
--   google search (basic html and css)
--   blog (Django, HTML, CSS)
--   email (JavaScript, HTML, CSS)
--   commerce (functionality of eBay auction)
+(code can be shared privatly, as it is forbidden to share publicly):
 
-Commercial development:
+-   [Google search (basic html and css) ](https://youtu.be/IgxY9oV_tbQ)
+-   [Wiki (Django, HTML, CSS)](https://youtu.be/Fa1fQOrceSk)
+-   [Commerce (functionality of eBay auction. Django, HTML, CSS, ORM](https://youtu.be/VPOq96sm-Xg)
+-   [Mail (JavaScript, HTML, CSS. Backend Rest API was provided)](https://youtu.be/i8KubjDDdLQ)
 
-1. Voting plugin for Outlook (Web and Desktop) with voters authentication via Azure AD/Normal MS Accounts/ADFS and recording results to database.
-   Used Outlook API and JavaScript for add-in development, then NodeJS, Express, Mongoose, MS authentication libraries, MS Graph, Mongo via Mongoose (for Mongo used help of other developer). Voting server published on herokuapp.com using docker.
+### Commercial development
 
-2. jinja2 scripts for routing trusted incoming calls to conferences without PIN
+1.  **Voting add-in/plugin for Outlook** (Web and Desktop) with voters authentication via Azure AD/Normal MS Accounts/ADFS and recording results to database.
 
-Non-Dev Experience:
-Product Management in multinational teams (videoconferencing, UC, cloud services, biometrics) - 10 yrs
-Sales Engineering in multinational teams (SW and HW unified communications and videoconferencing solutions) - 4 yrs
-B2B Sales (telecom and biometrics)- 7 yrs
+        Used Outlook API and JavaScript for add-in development, then NodeJS, Express, MS authentication libraries, MS Graph, Mongo via Mongoose (for Mongo part I used help of other developer). Voting server published on herokuapp.com using docker.
 
-Education:
+    Demo video to be added later.
+
+2.  **jinja2 scripts** for routing trusted incoming calls to Pexip videoconferences without PIN. Applied on Pexip Infinity Platform. Trusted calls were calls from several Zoom accounts from headquarters.
+
+## Non-Dev Experience
+
+-   Product Management in multinational teams (videoconferencing, UC, cloud services, biometrics) - 10 yrs
+-   Sales Engineering in multinational teams (SW and HW unified
+    communications and videoconferencing solutions) - 4 yrs
+-   B2B Sales (telecom and biometrics)- 7 yrs
+
+## Education:
+
+### Basic
+
 Saint Petersburg University of Telecommunications, Economics and Managements in Communication
 
-Courses:
-SkillFactory Python for Data Analysys
-Mimo (HTML, CSS, JS)
-RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-Harvard CS50 Web (in process, doing Social Network project)
+### Courses
 
-Languages:
-English - Fluent. Can speak and present. Worked in 3 internation companies, trained partners worldwide, worked in multionational teams, made many product\project presentations for multinational top management team.
-Russian - Native.
+-   SkillFactory - Python for Data Analysys
+-   Harvard - CS50 Web (Django, HTML, CSS, JS - in process, final Social Network project)
+-   Mimo (HTML, CSS, JS)
+-   RS Schools «JavaScript/Front-end. Stage 0» (in progress)
+
+### Languages
+
+**English - Fluent**
+Can speak and present. Worked in 3 internation companies, trained partners worldwide, worked in multionational teams, made many product\project presentations for multinational top management team.
+**Russian - Native**
