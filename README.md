@@ -1,1 +1,1 @@
-https://igorpex.github.io/rsschool-cv/cv
+https://igorpex.github.io/rsschool-cv/
