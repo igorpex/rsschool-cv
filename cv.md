@@ -1,45 +1,53 @@
-#Igor Bogdanov
-Contact information
+# Igor Bogdanov
+
+## Contact information
+
 Phone/WA/Telegram: +7-906-782-7829
 E-mail: igor.bogdanov@gmail.com
-Discord: igorbo(@igorpex)
 
-Briefly About Myself:
-I am experienced person in product management, project management,sales and sales engineering, learning development thins. I always loved to be deep in technologies I use. Now I want not only to use or sale or configure things, but to create them.
+## Briefly About Myself:
 
-Skills and Proficiency:
-Non-Tech:
-Product Managament,
-Project Management,
-Public Speaking,
-B2B Sales,
-Basic understanding of Russian Electronic Government Infrastructure.
+I am experienced person in product management, project management,sales and sales engineering. I always loved to be deep in technologies I use. Now I want to not only use or sale or configure things, but to create them.
 
-Tech:
+## Skills and Proficiency:
+
+### Non-Tech:
+
+-   Product Managament,
+-   Project Management,
+-   Public Speaking,
+-   B2B Sales,
+-   Basic understanding of Russian Electronic Government Infrastructure.
+
+### Tech:
+
 Unified Communications: Polycom, Cisco, Pexip, MS Skype for Business, MS Teams. SIP\H323\WebRTC
 Cloud Technologies (VMware, HyperV, basic AWS, Azure)
-Non-tech:
-Sales and Presales in B2B,
-Product management,
-Project-Management,
 
-Dev:
+### Dev:
+
 HTML, CSS, JavaScript
 Python, Django, Django ORM
 NodeJS, Express, Auth2.0, Prisma ORM
 Docker (docker-compose, dockerfile), publishing dockers to herokuapp.com, using cloud MongoDB
 
-Code example:
+## Code example:
 
+**Two Sum** task from CodeWars and LeetCode.
+
+> Write a function that takes an array of numbers (integers for the tests) and a target number. It should find two different items in the array that, when added together, give the target value.
+
+```
 function twoSum(numbers, target) {
-for (i = 0; i < numbers.length-1; ++i) {
-for (n = i+1; n < numbers.length; ++n) {
-if (numbers[i] + numbers[n] == target) {
-return [i, n]
+	for (i = 0; i < numbers.length-1; ++i) {
+		for (n = i+1; n < numbers.length; ++n) {
+			if (numbers[i] + numbers[n] == target) {
+				return [i, n]
+			}
+		}
+	}
 }
-}
-}
-}
+```
 
 Dev Experience:
 
