@@ -26,10 +26,11 @@ Cloud Technologies (VMware, HyperV, basic AWS, Azure)
 
 ### Dev
 
-HTML, CSS, JavaScript
-Python, Django, Django ORM
-NodeJS, Express, Auth2.0
-Docker (docker-compose, dockerfile), publishing dockers to herokuapp.com, using cloud MongoDB
+-   HTML, CSS, JavaScript
+-   Python, Django, Django ORM
+-   NodeJS, Express, Auth2.0(via MS)
+-   Docker (docker-compose, dockerfile), publishing dockers to herokuapp.com,
+-   using cloud MongoDB
 
 ## Code example
 
@@ -62,19 +63,18 @@ function twoSum(numbers, target) {
 
 ### Commercial development
 
-1.  **Voting add-in/plugin for Outlook** (Web and Desktop) with voters authentication via Azure AD/Normal MS Accounts/ADFS and recording results to database.
+1. **Voting add-in/plugin for Outlook** (Web and Desktop) with voters authentication via Azure AD/Normal MS Accounts/ADFS and recording results to database.
 
-        Used Outlook API and JavaScript for add-in development, then NodeJS, Express, MS authentication libraries, MS Graph, Mongo via Mongoose (for Mongo part I used help of other developer). Voting server published on herokuapp.com using docker.
+    Used Outlook API and JavaScript for add-in development, then NodeJS, Express, MS authentication libraries, MS Graph, Mongo via Mongoose (for Mongo part I used help of other developer). Voting server published on herokuapp.com using docker.
 
     Demo video to be added later.
 
-2.  **jinja2 scripts** for routing trusted incoming calls to Pexip videoconferences without PIN. Applied on Pexip Infinity Platform. Trusted calls were calls from several Zoom accounts from headquarters.
+2. **jinja2 scripts** for routing trusted incoming calls to Pexip videoconferences without PIN. Applied on Pexip Infinity Platform. Trusted calls were calls from several Zoom accounts from headquarters.
 
 ## Non-Dev Experience
 
 -   Product Management in multinational teams (videoconferencing, UC, cloud services, biometrics) - 10 yrs
--   Sales Engineering in multinational teams (SW and HW unified
-    communications and videoconferencing solutions) - 4 yrs
+-   Sales Engineering in multinational teams (SW and HW unified communications and videoconferencing solutions) - 4 yrs
 -   B2B Sales (telecom and biometrics)- 7 yrs
 
 ## Education:
@@ -94,4 +94,5 @@ Saint Petersburg University of Telecommunications, Economics and Managements in 
 
 **English - Fluent**
 Can speak and present. Worked in 3 internation companies, trained partners worldwide, worked in multionational teams, made many product\project presentations for multinational top management team.
+
 **Russian - Native**
