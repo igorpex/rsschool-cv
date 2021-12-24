@@ -58,7 +58,7 @@ function twoSum(numbers, target) {
 
 -   [Search](https://youtu.be/IgxY9oV_tbQ) (basic HTML and CSS)
 -   [Wiki](https://youtu.be/Fa1fQOrceSk) (Django, HTML, CSS)
--   [Commerce](https://youtu.be/VPOq96sm-Xg) (functionality of eBay auction. Django, HTML, CSS, ORM
+-   [Commerce](https://youtu.be/VPOq96sm-Xg) (functionality of eBay auction. Django, HTML, CSS, ORM)
 -   [Mail](https://youtu.be/i8KubjDDdLQ) (JavaScript, HTML, CSS. Backend Rest API was provided)
 
 ### Commercial development
