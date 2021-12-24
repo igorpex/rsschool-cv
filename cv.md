@@ -11,19 +11,6 @@ I am experienced person in product management, project management,sales and sale
 
 ## Skills and Proficiency
 
-### Non-Tech
-
--   Product Managament,
--   Project Management,
--   Public Speaking,
--   B2B Sales,
--   Basic understanding of Russian Electronic Government Infrastructure.
-
-### Tech
-
-Unified Communications: Polycom, Cisco, Pexip, MS Skype for Business, MS Teams. SIP\H323\WebRTC
-Cloud Technologies (VMware, HyperV, basic AWS, Azure)
-
 ### Dev
 
 -   HTML, CSS, JavaScript
@@ -31,6 +18,19 @@ Cloud Technologies (VMware, HyperV, basic AWS, Azure)
 -   NodeJS, Express, Auth2.0(via MS)
 -   Docker (docker-compose, dockerfile), publishing dockers to herokuapp.com,
 -   using cloud MongoDB
+
+### Non-dev
+
+-   Product Managament,
+-   Project Management,
+-   Public Speaking,
+-   B2B Sales,
+-   Basic understanding of Russian Electronic Government Infrastructure.
+
+### Other Tech
+
+-   Unified Communications: Polycom, Cisco, Pexip, MS Skype for Business, MS Teams. SIP\H323\WebRTC
+-   Cloud Technologies (VMware, HyperV, basic AWS, Azure)
 
 ## Code example
 
@@ -56,10 +56,10 @@ function twoSum(numbers, target) {
 
 (code can be shared privatly, as it is forbidden to share publicly):
 
--   [Google search (basic html and css) ](https://youtu.be/IgxY9oV_tbQ)
--   [Wiki (Django, HTML, CSS)](https://youtu.be/Fa1fQOrceSk)
--   [Commerce (functionality of eBay auction. Django, HTML, CSS, ORM](https://youtu.be/VPOq96sm-Xg)
--   [Mail (JavaScript, HTML, CSS. Backend Rest API was provided)](https://youtu.be/i8KubjDDdLQ)
+-   [Search](https://youtu.be/IgxY9oV_tbQ) (basic HTML and CSS)
+-   [Wiki](https://youtu.be/Fa1fQOrceSk) (Django, HTML, CSS)
+-   [Commerce](https://youtu.be/VPOq96sm-Xg) (functionality of eBay auction. Django, HTML, CSS, ORM
+-   [Mail](https://youtu.be/i8KubjDDdLQ) (JavaScript, HTML, CSS. Backend Rest API was provided)
 
 ### Commercial development
 
