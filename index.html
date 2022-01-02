@@ -10,30 +10,33 @@
 </head>
 
 <body>
-
   <div class="container-lg">
-    <header>
-      <nav>
+    <div class="nav-container">
+      <nav class="nav">
         <ul>
-          <li><a href="#contacts">Contacts</a></li>
+          <li><a href="/">Contacts</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#skills">Skills</a></li>
           <li><a href="#projects">Projects</a></li>
           <li><a href="#education">Education</a></li>
         </ul>
       </nav>
-      <img class="profile-picture" src="profile-picture.jpg" alt="photo">
-      <h1>Igor Bogdanov</h1>
+    </div>
+    <header class="header">
+      <div>
+        <h1>Igor Bogdanov</h1>
+        <section id="contacts">
+          <h2>Contact information</h2>
+          <ul>
+            <li><a href="tel: +7-906-782-7829">Tel: +7-906-782-7829</a>, <a href="https://t.me/igorbo">Telegram</a>, <a href="https://wa.me/79067827829">WA</a></li>
+            <li>E-mail: igor.bogdanov@gmail.com</li>
+          </ul>
+        </section>
 
+      </div>
+      <img class="profile-picture" src="profile-picture.jpg" alt="photo">
     </header>
     <main>
-      <section id="contacts">
-        <h2>Contact information</h2>
-        <ul>
-          <li>Phone/WA/Telegram: +7-906-782-7829</li>
-          <li>E-mail: igor.bogdanov@gmail.com</li>
-        </ul>
-      </section>
       <section id="about">
         <h2> About Me</h2>
         <p>I am experienced person in product management, project management,sales and sales engineering. I always loved to be deep in technologies I use. </p>
@@ -81,13 +84,14 @@
       </section>
       <section id="projects">
         <h2>Dev Experience</h2>
-        <h3>Harvard CS50 Web projects (code can be shared privatly, as it is forbidden to share publicly)</h3>
+        <h3>Harvard CS50 Web projects (code can be shared privately, as it is forbidden to share publicly)</h3>
         <ul>
           <li><a href="https://youtu.be/IgxY9oV_tbQ">Search</a>(basic HTML and CSS)</li>
           <li><a href="https://youtu.be/Fa1fQOrceSk">Wiki</a>(Django, HTML, CSS)</li>
           <li><a href="https://youtu.be/VPOq96sm-Xg">Commerce</a>(functionality of eBay auction. Django, HTML, CSS, ORM)</li>
           <li><a href="https://youtu.be/i8KubjDDdLQ">Mail</a>(JavaScript, HTML, CSS. Backend Rest API was provided)</li>
         </ul>
+        <h3><a href="https://github.com/igorpex/mk-api">Mortal Combat with backend API on NodeJS</a></h3>
         <h3>Commercial development</h3>
         <ol>
           <li><b>Voting add-in/plugin for Outlook</b> (Web and Desktop) with voters authentication via Azure AD/Normal MS Accounts/ADFS and recording results to database.
