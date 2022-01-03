@@ -1,1 +1,1 @@
-# rsschool-cv
+https://igorpex.github.io/rsschool-cv/
