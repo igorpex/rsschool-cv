@@ -15,9 +15,9 @@ I am experienced person in product management, project management,sales and sale
 
 -   HTML, CSS, JavaScript
 -   Python, Django, Django ORM
--   NodeJS, Express, Auth2.0(via MS)
--   Docker (docker-compose, dockerfile), publishing dockers to herokuapp.com,
--   using cloud MongoDB
+-   NodeJS, Express, oAuth2.0
+-   Docker (docker-compose, dockerfile)
+-   MongoDB
 
 ### Non-dev
 
@@ -51,6 +51,14 @@ function twoSum(numbers, target) {
 ```
 
 ## Dev Experience
+
+### RS School Projects
+
+-   [Portfolio] (https://rolling-scopes-school.github.io/igorpex-JSFEPRESCHOOL/portfolio/). HTML, CSS, Adaptive and Responsive, JavaScript for Languages, themes, gallery, mobile menu, custom video player.
+-   [Custom JavaScript Video Player] (https://rolling-scopes-school.github.io/igorpex-JSFEPRESCHOOL/portfolio/#video). Published on the same page, but it is dedicated work.
+-   [Tic Tac Toe game] (https://rolling-scopes-school.github.io/igorpex-JSFEPRESCHOOL/tic-tac-toe/). Simple game on JavaScript with adaptive design.
+-   [Chuck Norris Jokes] (https://rolling-scopes-school.github.io/igorpex-JSFEPRESCHOOL/random-jokes/). Simple fun Chuck jokes game using JavaScript.
+-   [Shelter] (https://rolling-scopes-school.github.io/igorpex-JSFE2022Q1/shelter/). Very nice Pets Shelter responsive and adaptive website with JavaScript.
 
 ### Harvard CS50 Web projects
 
@@ -88,11 +96,12 @@ Saint Petersburg University of Telecommunications, Economics and Managements in 
 -   SkillFactory - Python for Data Analysys
 -   Harvard - CS50 Web (Django, HTML, CSS, JS - in process, final Social Network project)
 -   Mimo (HTML, CSS, JS)
--   RS Schools «JavaScript/Front-end. Stage 0» (in progress)
+-   RS Schools «JavaScript/Front-end. Stage 0»
+-   RS Schools «JavaScript/Front-end. Stage 1 (in progress)»
 
 ### Languages
 
 **English - Fluent**
-Can speak and present. Worked in 3 internation companies, trained partners worldwide, worked in multionational teams, made many product\project presentations for multinational top management team.
+I can speak and present. I worked for several international companies, trained partners worldwide, worked in multionational teams, made many product\project presentations for multinational top management team.
 
 **Russian - Native**
